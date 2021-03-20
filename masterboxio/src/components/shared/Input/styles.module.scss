@@ -1,0 +1,19 @@
+@import "../../../styles/moduleImports";
+
+.input {
+  border: 1px solid $primary-blue;
+  padding: 1px 6px;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 1rem auto;
+  height: 2.8rem;
+  font-size: 20px;
+  border-radius: 6px;
+  color: $black;
+  margin-top: 4px;
+}
+
+.label {
+  display: flex;
+  color: $black;
+}
